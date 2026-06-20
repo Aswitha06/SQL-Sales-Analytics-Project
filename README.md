@@ -1,38 +1,32 @@
-# 🎓 Student Management System using MySQL
+# 📊 SQL Sales Analytics Project
 
-## 📖 Project Overview
+## 🚀 Overview
 
-A MySQL-based Student Management System developed to practice and demonstrate fundamental and advanced SQL concepts. This project manages student and marks data while showcasing real-world database operations and analytical queries.
+A MySQL-based Sales Analytics project built to practice and demonstrate SQL concepts from basic to advanced level.
 
-## 🚀 Features
+## 🛠️ Concepts Covered
 
 * ✅ Database Creation
 * ✅ Table Creation
-* ✅ Primary & Foreign Keys
-* ✅ Aggregate Functions
+* ✅ Constraints
+* ✅ CRUD Operations
 * ✅ Joins
+* ✅ Aggregate Functions
+* ✅ GROUP BY & HAVING
 * ✅ Subqueries
 * ✅ Views
 * ✅ Indexes
+* ✅ User Defined Functions
 * ✅ Stored Procedures
-* ✅ Transaction Control Commands
+* ✅ Temporary Tables
 
-## 🗄️ Database Tables
+## 📷 Project Screenshots
 
-### 👨‍🎓 Student
+* 👥 Customers Table
+* 🛍️ Products Table
+* 🔗 Join Query Output
 
-* StudentID
-* StudentName
-* Department
-* Age
-
-### 📝 Marks
-
-* StudentID
-* Subject
-* Marks
-
-## 🛠️ Tools Used
+## 💻 Tools Used
 
 * 🐬 MySQL
 * 🖥️ MySQL Workbench
