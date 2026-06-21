@@ -2,29 +2,31 @@
 
 ## 🚀 Overview
 
-A MySQL-based Sales Analytics project built to practice and demonstrate SQL concepts from basic to advanced level.
+This project is a MySQL-based Sales Analytics project built to practice and demonstrate SQL concepts from basic to advanced levels. It simulates a sales management system involving employees, departments, customers, orders, products, and order items.
 
-## 🛠️ Concepts Covered
+## 🎯 Objectives
 
-* ✅ Database Creation
-* ✅ Table Creation
-* ✅ Constraints
-* ✅ CRUD Operations
-* ✅ Joins
-* ✅ Aggregate Functions
-* ✅ GROUP BY & HAVING
-* ✅ Subqueries
-* ✅ Views
-* ✅ Indexes
-* ✅ User Defined Functions
-* ✅ Stored Procedures
-* ✅ Temporary Tables
+* ✅ Design and create a relational database
+* ✅ Perform CRUD operations
+* ✅ Analyze sales-related data using SQL queries
+* ✅ Generate insights using aggregate functions
+* ✅ Work with joins and subqueries
+* ✅ Implement views, indexes, stored procedures, and functions
 
-## 📷 Project Screenshots
+## 🛠️ SQL Concepts Covered
 
-* 👥 Customers Table
-* 🛍️ Products Table
-* 🔗 Join Query Output
+* 🏗️ Database Creation
+* 🗄️ Table Creation
+* 🔑 Primary Key & Foreign Key Constraints
+* ➕ CRUD Operations
+* 🔗 Joins (INNER, LEFT, RIGHT & SELF JOIN)
+* 📈 Aggregate Functions
+* 📊 GROUP BY & HAVING
+* 🔍 Subqueries
+* 👁️ Views
+* ⚡ Indexes
+* ⚙️ Stored Procedures
+* 🧮 User Defined Functions
 
 ## 💻 Tools Used
 
